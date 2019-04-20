@@ -12,8 +12,8 @@
   ],
   "require": {
     "php": ">=5.5",
-    "zendframework/zend-diactoros": "~1.8.4",
-    "league/event": "2.1.2",
+    "zendframework/zend-diactoros": "^2.1",
+    "league/event": "^2.2",
     "php-http/curl-client": "1.4.*",
     "php-http/message": "^1.2",
     "php-http/client-common": "^1.1"
